@@ -1,3 +1,6 @@
+[Link to Notebook - Click Me!](https://github.com/hsoffos/berkeley-ml-ai/blob/main/assignment_5_1_start/prompt.ipynb)
+
+
 ### Will a Customer Accept the Coupon?
 
 **Context**
